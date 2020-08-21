@@ -106,7 +106,7 @@ function visualizeMatchesWonByEachTeam(data) {
        yAxis: {
             min: 0,
             title: {
-                text: 'Rainfall (mm)'
+                text: 'Matches won'
             }
         },
         tooltip: {
